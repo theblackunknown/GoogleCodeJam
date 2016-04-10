@@ -1,3 +1,15 @@
+.vs
+*.sln
+*.sdf
+
+*.exe
+*.obj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug
+Release
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
